@@ -147,6 +147,10 @@ Leyendo...
 
 ## 👨‍💻 Autor
 
-Script orientado a automatización de lectura de balanzas industriales.
+Moises Iván Llancapani Stormensan
+
+Ingeniero en Computación e Informática
+
+Generado el 2026-04-14
 
 ---
