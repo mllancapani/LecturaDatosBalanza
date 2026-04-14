@@ -46,7 +46,7 @@ Configurar cadena de conexión:
 
 ```python
 conn = pyodbc.connect(
-    'DRIVER={SQL Server};SERVER=192.168.3.68;DATABASE=nova;UID=sa;PWD=tu_password'
+    'DRIVER={SQL Server};SERVER=127.0.0.1;DATABASE=nombreBD;UID=usuario;PWD=tu_password'
 )
 ```
 
