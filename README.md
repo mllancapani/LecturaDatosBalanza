@@ -90,7 +90,7 @@ ST,GS,12.34 kg
 ## 🗃️ Consulta SQL utilizada
 
 ```sql
-UPDATE prod_pack_peso_balanza 
+UPDATE tabla_peso_balanza 
 SET peso = ? 
 WHERE id = '1'
 ```
